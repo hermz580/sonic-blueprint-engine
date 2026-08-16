@@ -1,0 +1,10 @@
+node_modules/
+build/
+dist/
+coverage/
+uploads/
+*.mp3
+.DS_Store
+*.log
+.env*
+!.env.example
