@@ -51,12 +51,12 @@ The app is provider-agnostic. No code changes needed to switch models — just e
 # OpenAI
 LLM_PROVIDER=openai
 LLM_MODEL=gpt-4o
-LLM_API_KEY=sk-...
+LLM_API_KEY=YOUR_PROVIDER_API_KEY
 
 # Anthropic Claude
 LLM_PROVIDER=anthropic
 LLM_MODEL=claude-sonnet-4-5
-LLM_API_KEY=sk-ant-...
+LLM_API_KEY=YOUR_ANTHROPIC_API_KEY
 
 # Local models via Ollama (OpenAI-compatible endpoint)
 LLM_PROVIDER=openai-compatible
